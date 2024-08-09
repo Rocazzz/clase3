@@ -1,0 +1,14 @@
+.uaoclass{
+    color: blueviolet;
+}
+
+#uaoid{
+    background: bisque;
+    width: 200px;
+    height: 200px;
+}
+
+a[href="https://www.uao.edu.co"]{
+    color: aquamarine;
+    text-decoration: none;
+}
